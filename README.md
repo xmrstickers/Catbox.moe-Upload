@@ -15,8 +15,9 @@ I like to share files with strangers on the internet. This website will temporar
 Using this on my desktop workstation is fast and easy in the browser, but I wanted to be able to share files from CLI or other scripts on the same platform. So I made this tool! 
 
 # What file types aren't allowed?
-The following file types are currently not allowed: .exe, .scr, .cpl, .doc*, .jar
-(*ahem*, compress them first)
+The following file types are currently not allowed: **.exe, .scr, .cpl, .doc*, .jar**
+
+(*ahem*, just compress them first)
 
 # Why can't I upload multiple files at once >:(
 eagerly awaiting your PR, king :) 
