@@ -1,7 +1,7 @@
 # Catbox.moe-Upload
 simple file-upload to free file-upload platform Catbox.moe
 # Usage: 
-assuming _file.txt_ is in the same directory as _catbox.lua_
+assuming _file.txt_ is in the same directory as _catbox.py_
 **single-file upload**:
 ```
 catbox.py file.txt 
