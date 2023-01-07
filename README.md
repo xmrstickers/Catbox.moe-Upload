@@ -7,6 +7,7 @@ assuming _file.txt_ is in the same directory as _catbox.lua_
 catbox.lua file.txt 
 ```
 **Successful Output**:
+
 ![image](https://user-images.githubusercontent.com/89484281/211171298-2e39f6a3-69b2-477f-a667-875044e2b0b4.png)
 # Why? 
 I like to share files with strangers on the internet. This website will temporarily host files up to 200 megs and provide a link to your file. 
