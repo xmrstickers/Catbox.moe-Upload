@@ -17,7 +17,7 @@ Using this on my desktop workstation is fast and easy in the browser, but I want
 # What file types aren't allowed?
 The following file types are currently not allowed: **.exe, .scr, .cpl, .doc*, .jar**
 
-(*ahem*, just compress them first)
+This a server-side check and completely out of my control (*ahem*, just compress them first)
 
 # Why can't I upload multiple files at once >:(
 eagerly awaiting your PR, king :) 
