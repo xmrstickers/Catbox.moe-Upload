@@ -14,5 +14,9 @@ catbox.py file.txt
 I like to share files with strangers on the internet. This website will temporarily host files up to 200 megs and provide a link to your file. 
 Using this on my desktop workstation is fast and easy in the browser, but I wanted to be able to share files from CLI or other scripts on the same platform. So I made this tool! 
 
+# What file types aren't allowed?
+The following file types are currently not allowed: .exe, .scr, .cpl, .doc*, .jar
+(*ahem*, compress them first)
+
 # Why can't I upload multiple files at once >:(
 eagerly awaiting your PR, king :) 
