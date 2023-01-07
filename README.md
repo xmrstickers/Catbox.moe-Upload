@@ -4,7 +4,7 @@ simple file-upload to free file-upload platform Catbox.moe
 assuming _file.txt_ is in the same directory as _catbox.lua_
 **single-file upload**:
 ```
-catbox.lua file.txt 
+catbox.py file.txt 
 ```
 **Successful Output**:
 
