@@ -13,5 +13,5 @@ catbox.lua file.txt
 I like to share files with strangers on the internet. This website will temporarily host files up to 200 megs and provide a link to your file. 
 Using this on my desktop workstation is fast and easy in the browser, but I wanted to be able to share files from CLI or other scripts on the same platform. So I made this piss-simple tool.
 
-#Why can't I upload multiple files at once >:(
+# Why can't I upload multiple files at once >:(
 eagerly awaiting your PR, king :) 
